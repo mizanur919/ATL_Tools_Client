@@ -1,0 +1,18 @@
+.add-prize-bond{
+    font-size: 25px;
+    border: none;
+}
+
+.fZxLXy::-webkit-scrollbar {
+    width: 10px;
+}
+
+.fZxLXy::-webkit-scrollbar-track {
+    background-color: #ecf0f1;
+    border-radius: 20px;
+}
+
+.fZxLXy::-webkit-scrollbar-thumb {
+    background: #3498db;
+    border-radius: 20px;
+}
